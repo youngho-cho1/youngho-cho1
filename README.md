@@ -8,5 +8,6 @@
 </div>
 
 <hr />
+<div>
 <img src="https://img.shields.io/badge/Github-gray?style=flat&logo=Github&logoColor=181717"/>
-
+</div>
